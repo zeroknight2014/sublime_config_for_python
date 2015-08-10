@@ -1,0 +1,16 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"GitGutter",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Theme - Soda SolarizedDark",
+		"Tomorrow Color Schemes"
+	]
+}
