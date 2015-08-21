@@ -1,11 +1,15 @@
 {
+	"http_proxy": "http://10.96.153.204:9998",
+	"https_proxy": "http://10.96.153.204:9998",
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"Anaconda",
 		"GitGutter",
 		"Package Control",
+		"Python 3",
 		"Python PEP8 Autoformat",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
