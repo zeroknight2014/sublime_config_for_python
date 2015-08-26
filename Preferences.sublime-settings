@@ -51,7 +51,8 @@
 	"indent_to_bracket": false,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"max-line-length": 100,
+	"max-line-length": 120,
+	"pep8_max_line_length": 120,
 	"rulers":
 	[
 		120
